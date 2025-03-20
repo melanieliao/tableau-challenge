@@ -3,7 +3,9 @@
 This project analyzes Citi Bike usage patterns to identify key trends, peak usage times, popular stations, and user behavior differences between members and casual riders. The insights help in optimizing bike availability, station rebalancing, and maintenance planning.
 
 📊 Tableau Public Link
+
 📍 View the Full Citi Bike Usage Analysis on Tableau Public:
+
 👉 https://public.tableau.com/app/profile/melanie.liao/viz/CitiBikeUsageAnalysis_17424350758870/Story2?publish=yes
 
 ## Contents of the Tableau Story
